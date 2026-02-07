@@ -3,7 +3,7 @@
 💫 About Me:
 
 
-I am an aspring Computer Engineer and software developer. I am looking for job placement/ intern. I am currently learning MERN Stack.Ia full stack developer with a background in computer engineering. I love solving real-world problems using technology and building modern web applications that are responsive and efficient. 
+I am an aspring Computer Engineer and software developer. I am looking for job placement/ intern. I am currently learning MERN Stack.I am a full stack developer with a background in computer engineering. I love solving real-world problems using technology and building modern web applications that are responsive and efficient. 
 
 
 ## 🌐 Socials:
