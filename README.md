@@ -2,8 +2,7 @@
 
 💫 About Me:
 
-
-I am a full stack developer with a background in computer engineering. I am looking for job placement/ intern. I am currently learning MERN Stack. I love solving real-world problems using technology and building modern web applications that are responsive and efficient. 
+I am a full(MERN) stack developer with a background in computer engineering. I am looking for job placement/ intern. I love solving real-world problems using technology and building modern web applications that are responsive and efficient. 
 
 
 ## 🌐 Socials:
